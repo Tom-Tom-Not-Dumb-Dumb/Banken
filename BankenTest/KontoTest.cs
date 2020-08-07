@@ -4,6 +4,19 @@ using Banken;
 
 namespace BankenTest
 {
+    /*
+        Navnet det er Søren, og jeg ka' li' Github
+        Jeg underholder H4 i "Unit Testing & Xunit"
+        Hele klassen spiller, og alle gi'r den gas
+        Og når beatet pumper, så henter jeg Zotero
+
+        Søren han er for cool
+        Søren han er for cool!
+        Søren han er for cool!!
+        Søren han er for cool!!!
+        Søren han er for cool!!!!
+    */
+
     public class KontoTest : IDisposable
     {
         Konto k;
